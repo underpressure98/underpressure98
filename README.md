@@ -57,7 +57,7 @@ I build things, break them, and figure out why.
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/@DeegenInParis98-0d1117?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/AnderSol98](https://x.com/DeegenInParis98)
+[![Twitter](https://img.shields.io/badge/@DeegenInParis98-0d1117?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/DeegenInParis98](https://x.com/DeegenInParis98)
 [![GitHub](https://img.shields.io/badge/underpressure98-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/underpressure98)
 
 </div>
